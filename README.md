@@ -1,5 +1,7 @@
 # Jogo de Fazenda - MVP
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 Este é o MVP (Produto Mínimo Viável) de um jogo de fazenda singleplayer feito para navegador usando Phaser.js. O objetivo inicial é proporcionar a experiência básica de plantar e colher trigo, armazenando a produção localmente.
 
 ---
